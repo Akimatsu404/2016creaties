@@ -1,10 +1,7 @@
 //
 //  main2.cpp
 //  hanoi
-//
-//  Created by 土肥　佑綺 on 2016/06/03.
-//  Copyright © 2016年 土肥　佑綺. All rights reserved.
-//
+
 
 #include <stdio.h>
 #include <string>
